@@ -1,0 +1,6 @@
+﻿  course4(36-40).cpp
+C:\Users\leens\source\repos\course4(36-40)\course4(36-40)\course4(36-40).cpp(37,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\leens\source\repos\course4(36-40)\course4(36-40)\course4(36-40).cpp(43,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\leens\source\repos\course4(36-40)\course4(36-40)\course4(36-40).cpp(54,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\leens\source\repos\course4(36-40)\course4(36-40)\course4(36-40).cpp(57,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  course4(36-40).vcxproj -> C:\Users\leens\source\repos\course4(36-40)\x64\Debug\course4(36-40).exe

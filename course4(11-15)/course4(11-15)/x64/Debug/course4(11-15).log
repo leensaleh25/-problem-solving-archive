@@ -1,0 +1,4 @@
+﻿  course4(11-15).cpp
+C:\Users\leens\source\repos\course4(11-15)\course4(11-15)\course4(11-15).cpp(48,9): warning C4101: 'a': unreferenced local variable
+C:\Users\leens\source\repos\course4(11-15)\course4(11-15)\course4(11-15).cpp(48,12): warning C4101: 'b': unreferenced local variable
+  course4(11-15).vcxproj -> C:\Users\leens\source\repos\course4(11-15)\x64\Debug\course4(11-15).exe
