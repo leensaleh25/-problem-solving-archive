@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\course6\\defultParameters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3645353-FB89-4A18-8210-5AD207163BF7}|defultParameters\\defultParameters.vcxproj|C:\\Users\\leens\\source\\repos\\course6\\defultParameters\\defultParameters\\defultParameters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3645353-FB89-4A18-8210-5AD207163BF7}|defultParameters\\defultParameters.vcxproj|solutionrelative:defultParameters\\defultParameters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "defultParameters.cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\course6\\defultParameters\\defultParameters\\defultParameters.cpp",
+              "RelativeDocumentMoniker": "defultParameters\\defultParameters.cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\course6\\defultParameters\\defultParameters\\defultParameters.cpp",
+              "RelativeToolTip": "defultParameters\\defultParameters.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T11:38:04.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

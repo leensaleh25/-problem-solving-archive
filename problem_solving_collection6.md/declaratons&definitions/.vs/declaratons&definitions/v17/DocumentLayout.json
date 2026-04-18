@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\course6\\declaratons\u0026definitions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A181F4-FC0A-4A11-B8E3-CA9702E435B4}|declaratons\u0026definitions\\declaratons\u0026definitions.vcxproj|C:\\Users\\leens\\source\\repos\\course6\\declaratons\u0026definitions\\declaratons\u0026definitions\\declaratons\u0026definitions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5A181F4-FC0A-4A11-B8E3-CA9702E435B4}|declaratons\u0026definitions\\declaratons\u0026definitions.vcxproj|solutionrelative:declaratons\u0026definitions\\declaratons\u0026definitions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "declaratons\u0026definitions.cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\course6\\declaratons\u0026definitions\\declaratons\u0026definitions\\declaratons\u0026definitions.cpp",
+              "RelativeDocumentMoniker": "declaratons\u0026definitions\\declaratons\u0026definitions.cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\course6\\declaratons\u0026definitions\\declaratons\u0026definitions\\declaratons\u0026definitions.cpp",
+              "RelativeToolTip": "declaratons\u0026definitions\\declaratons\u0026definitions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T11:21:06.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

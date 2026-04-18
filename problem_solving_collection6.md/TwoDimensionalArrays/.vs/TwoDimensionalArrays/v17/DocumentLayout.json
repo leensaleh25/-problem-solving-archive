@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\course6\\TwoDimensionalArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{454564B2-C5CD-4749-B1FB-AD37452E4329}|TwoDimensionalArrays\\TwoDimensionalArrays.vcxproj|C:\\Users\\leens\\source\\repos\\course6\\TwoDimensionalArrays\\TwoDimensionalArrays\\TwoDimensionalArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{454564B2-C5CD-4749-B1FB-AD37452E4329}|TwoDimensionalArrays\\TwoDimensionalArrays.vcxproj|solutionrelative:TwoDimensionalArrays\\TwoDimensionalArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwoDimensionalArrays.cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\course6\\TwoDimensionalArrays\\TwoDimensionalArrays\\TwoDimensionalArrays.cpp",
+              "RelativeDocumentMoniker": "TwoDimensionalArrays\\TwoDimensionalArrays.cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\course6\\TwoDimensionalArrays\\TwoDimensionalArrays\\TwoDimensionalArrays.cpp",
+              "RelativeToolTip": "TwoDimensionalArrays\\TwoDimensionalArrays.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-09T12:17:48.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

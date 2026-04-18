@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\course6\\Lesson #42 - Pointer to Void\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE44C5E-7D2B-487B-8CA0-D101D8D8F911}|Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void.vcxproj|C:\\Users\\leens\\source\\repos\\course6\\Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEE44C5E-7D2B-487B-8CA0-D101D8D8F911}|Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void.vcxproj|solutionrelative:Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #42 - Pointer to Void.cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\course6\\Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void.cpp",
+              "RelativeDocumentMoniker": "Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void.cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\course6\\Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void.cpp*",
+              "RelativeToolTip": "Lesson #42 - Pointer to Void\\Lesson #42 - Pointer to Void.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T12:58:14.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

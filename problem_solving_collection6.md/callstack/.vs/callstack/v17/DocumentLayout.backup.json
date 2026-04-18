@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\course6\\callstack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F186FB-1A61-4987-8325-486B4313D86A}|callstack\\callstack.vcxproj|C:\\Users\\leens\\source\\repos\\course6\\callstack\\callstack\\callstack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0F186FB-1A61-4987-8325-486B4313D86A}|callstack\\callstack.vcxproj|solutionrelative:callstack\\callstack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "callstack.cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\course6\\callstack\\callstack\\callstack.cpp",
+              "RelativeDocumentMoniker": "callstack\\callstack.cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\course6\\callstack\\callstack\\callstack.cpp",
+              "RelativeToolTip": "callstack\\callstack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T13:18:54.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
