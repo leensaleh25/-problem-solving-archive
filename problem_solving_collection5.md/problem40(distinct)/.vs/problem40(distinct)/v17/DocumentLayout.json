@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\problem40(distinct)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632D7357-5912-415A-9FA6-28599F2A5D32}|problem40(distinct)\\problem40(distinct).vcxproj|C:\\Users\\leens\\source\\repos\\problem40(distinct)\\problem40(distinct)\\problem40(distinct).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{632D7357-5912-415A-9FA6-28599F2A5D32}|problem40(distinct)\\problem40(distinct).vcxproj|solutionrelative:problem40(distinct)\\problem40(distinct).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem40(distinct).cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\problem40(distinct)\\problem40(distinct)\\problem40(distinct).cpp",
+              "RelativeDocumentMoniker": "problem40(distinct)\\problem40(distinct).cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\problem40(distinct)\\problem40(distinct)\\problem40(distinct).cpp",
+              "RelativeToolTip": "problem40(distinct)\\problem40(distinct).cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-04T14:51:03.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

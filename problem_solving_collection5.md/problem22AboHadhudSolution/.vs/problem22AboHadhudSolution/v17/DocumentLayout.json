@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\problem22AboHadhudSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5198230A-E052-4A9C-8F21-FE1753EEDCC6}|problem22AboHadhudSolution\\problem22AboHadhudSolution.vcxproj|C:\\Users\\leens\\source\\repos\\problem22AboHadhudSolution\\problem22AboHadhudSolution\\problem22AboHadhudSolution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5198230A-E052-4A9C-8F21-FE1753EEDCC6}|problem22AboHadhudSolution\\problem22AboHadhudSolution.vcxproj|solutionrelative:problem22AboHadhudSolution\\problem22AboHadhudSolution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem22AboHadhudSolution.cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\problem22AboHadhudSolution\\problem22AboHadhudSolution\\problem22AboHadhudSolution.cpp",
+              "RelativeDocumentMoniker": "problem22AboHadhudSolution\\problem22AboHadhudSolution.cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\problem22AboHadhudSolution\\problem22AboHadhudSolution\\problem22AboHadhudSolution.cpp",
+              "RelativeToolTip": "problem22AboHadhudSolution\\problem22AboHadhudSolution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T11:43:37.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

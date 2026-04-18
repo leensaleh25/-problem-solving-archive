@@ -1,0 +1,3 @@
+﻿  problem50.cpp
+C:\Users\leens\source\repos\problem50\problem50\problem50.cpp(11,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  problem50.vcxproj -> C:\Users\leens\source\repos\problem50\x64\Debug\problem50.exe

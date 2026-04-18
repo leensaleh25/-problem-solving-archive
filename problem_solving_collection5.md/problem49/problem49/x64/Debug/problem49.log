@@ -1,0 +1,4 @@
+﻿  problem49.cpp
+C:\Users\leens\source\repos\problem49\problem49\problem49.cpp(17,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\leens\source\repos\problem49\problem49\problem49.cpp(19,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  problem49.vcxproj -> C:\Users\leens\source\repos\problem49\x64\Debug\problem49.exe

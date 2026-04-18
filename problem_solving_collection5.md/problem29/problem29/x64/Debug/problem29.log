@@ -1,0 +1,4 @@
+﻿  problem29.cpp
+C:\Users\leens\source\repos\problem29\problem29\problem29.cpp(35,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\leens\source\repos\problem29\problem29\problem29.cpp(66,9): warning C4101: 'arrDestination': unreferenced local variable
+  problem29.vcxproj -> C:\Users\leens\source\repos\problem29\x64\Debug\problem29.exe

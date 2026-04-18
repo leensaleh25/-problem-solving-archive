@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\problem366\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F044E909-4B5E-4CE5-9AAD-2211CC8570FA}|problem366\\problem366.vcxproj|C:\\Users\\leens\\source\\repos\\problem366\\problem366\\problem366.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F044E909-4B5E-4CE5-9AAD-2211CC8570FA}|problem366\\problem366.vcxproj|solutionrelative:problem366\\problem366.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem366.cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\problem366\\problem366\\problem366.cpp",
+              "RelativeDocumentMoniker": "problem366\\problem366.cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\problem366\\problem366\\problem366.cpp",
+              "RelativeToolTip": "problem366\\problem366.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T11:30:31.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

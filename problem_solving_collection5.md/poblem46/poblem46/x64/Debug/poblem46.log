@@ -1,0 +1,3 @@
+﻿  poblem46.cpp
+C:\Users\leens\source\repos\poblem46\poblem46\poblem46.cpp(7,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  poblem46.vcxproj -> C:\Users\leens\source\repos\poblem46\x64\Debug\poblem46.exe

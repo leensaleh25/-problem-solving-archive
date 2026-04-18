@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leens\\source\\repos\\course5(problem1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C473B09-0F32-40C7-8FAA-6DD59417F433}|course5(problem1)\\course5(problem1).vcxproj|C:\\Users\\leens\\source\\repos\\course5(problem1)\\course5(problem1)\\course5(problem1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C473B09-0F32-40C7-8FAA-6DD59417F433}|course5(problem1)\\course5(problem1).vcxproj|solutionrelative:course5(problem1)\\course5(problem1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "course5(problem1).cpp",
+              "DocumentMoniker": "C:\\Users\\leens\\source\\repos\\course5(problem1)\\course5(problem1)\\course5(problem1).cpp",
+              "RelativeDocumentMoniker": "course5(problem1)\\course5(problem1).cpp",
+              "ToolTip": "C:\\Users\\leens\\source\\repos\\course5(problem1)\\course5(problem1)\\course5(problem1).cpp",
+              "RelativeToolTip": "course5(problem1)\\course5(problem1).cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T10:41:43.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

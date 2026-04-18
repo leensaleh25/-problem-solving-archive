@@ -1,0 +1,4 @@
+﻿  problem23.cpp
+C:\Users\leens\source\repos\problem23\problem23\problem23.cpp(18,6): warning C4101: 'from': unreferenced local variable
+C:\Users\leens\source\repos\problem23\problem23\problem23.cpp(18,13): warning C4101: 'to': unreferenced local variable
+  problem23.vcxproj -> C:\Users\leens\source\repos\problem23\x64\Debug\problem23.exe
