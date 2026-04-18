@@ -1,0 +1,7 @@
+x64/
+Debug/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
